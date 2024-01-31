@@ -1,4 +1,4 @@
-###  👋
+### Кратко обо мне 👋
 
 <!--
 **enlacroix/enlacroix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on: Ищу оттенки жёлтого для кнопок в новом AI-friendly приложении компании ЯНДЕКС.
-- 🌱 I’m currently learning: уроки пикапа
-- 👯 I’m looking to collaborate on: Я не вишист, извините.
-- 🤔 I’m looking for help with: борьба с плюсистами.
+- 🌱 I’m currently learning: русский язык, я кореец.
+- 👯 I’m looking to collaborate on: игра, ну типа Ведьмак, только с пушками, еще и в сеттинге совьет-панка на анриле 5
+- 🤔 I’m looking for help with: мировая борьба с плюсистами.
 - 💬 Ask me about: Работаю ли в Яндексе? ДА!
-- 📫 How to reach me: Шоссе Энтузиастов 25б, спросить Аню из аптеки
+- 📫 How to reach me: Шоссе Энтузиастов 25б, спросить Аню в аптеке
 - 😄 Pronouns: Милостивый государь, Светлейший, и т.п.
 - ⚡ Fun fact: всё, что здесь написано - Ложь.
 <!--
