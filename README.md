@@ -14,6 +14,7 @@
 </h3>
 
 <b> <a href="https://enlacroix.github.io/" target="_blank"> Личный сайт </a> </b>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Пока+сайт+не+содержит+полезной+информации)](https://git.io/typing-svg)
 
 <h4> Информация о проектах </h4>
 
