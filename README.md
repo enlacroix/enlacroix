@@ -21,7 +21,9 @@
 <h4> Информация о проектах </h4>
 
 <h4> Статистика </h4>
-[![trophy](https://github-profile-trophy.vercel.app/?username=enlacroix)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://github.com/enlacroix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enlacroix&layout=compact&hide_border=true&theme=dark"/></a>
 <p> </p>
 <a href="https://github.com/enlacroix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=enlacroix&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enlacroix)](https://github.com/anuraghazra/github-readme-stats)
