@@ -9,12 +9,16 @@
 - ⚡ Fun fact: я патологический лжец
 <a href="https://github.com/enlacroix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=enlacroix&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a>
 -->
-<h3 align="center"> Информация о проектах
-<a href="https://enlacroix.github.io/" target="_blank"> Сайт с работами </a> 
+<h3 align="center"> Herzlich willkommen!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>
 </h3>
 
+<b> <a href="https://enlacroix.github.io/" target="_blank"> Личный сайт </a> </b>
 
+<h4> Информация о проектах </h4>
 
+<h4> Статистика </h4>
 
 <a href="https://github.com/enlacroix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enlacroix&layout=compact&hide_border=true&theme=dark"/></a>
+<p> </p>
+<a href="https://github.com/enlacroix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=enlacroix&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a>
