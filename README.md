@@ -14,17 +14,18 @@
 </h3>
 
 <h4> О себе </h4>
-![](https://komarev.com/ghpvc/?username=enlacroix&color=red)
+
 
 <h5> <a href="https://enlacroix.github.io/" target="_blank"> Личный сайт </a> </h5>
 
 
 <h4> Информация о проектах </h4>
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) Разработка стратегической ролевой игры Sylvenarr: Edge of Eternality. 
+
 
 <h4> Статистика </h4>
-
+![](https://komarev.com/ghpvc/?username=enlacroix&color=red)
 <a href="https://github.com/enlacroix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enlacroix&layout=compact&hide_border=true&theme=dark"/></a>
 <a href="https://github.com/enlacroix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=enlacroix&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=enlacroix)](https://github.com/ryo-ma/github-profile-trophy)
+
