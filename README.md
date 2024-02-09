@@ -7,7 +7,7 @@
 - 📫 How to reach me: это невозможно
 - 😄 Pronouns: Милостивый государь, Светлейший, и т.п.
 - ⚡ Fun fact: я патологический лжец
-<a href="https://github.com/enlacroix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=enlacroix&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a>
+![](https://komarev.com/ghpvc/?username=enlacroix&color=red)
 -->
 <h3 align="center"> Добро пожаловать
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>
@@ -15,11 +15,11 @@
 
 <h4> О себе </h4>
 
+<h4> Информация о проектах </h4>
+
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 <h5> <a href="https://enlacroix.github.io/" target="_blank"> Личный сайт </a> </h5>
-
-
-<h4> Информация о проектах </h4>
 
 
 <h4> Статистика </h4>
@@ -29,6 +29,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=enlacroix)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=enlacroix&color=red)
 
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+
+
+
+
