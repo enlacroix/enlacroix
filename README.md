@@ -28,7 +28,7 @@ GitHub Extra Pins. GitHub позволяет закреплять на стра�
 
 <h4> Нейрогеометрия </h4>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enlacroix&repo=neurogeometry&theme=dark)](https://github.com/enlacroix/neurogeometry)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enlacroix&repo=neurogeometry&theme=tokyonight)](https://github.com/enlacroix/neurogeometry)
 
 Сервис для решения задач по планиметрии. Символьный язык и дедуктивный движок, остальные части пока скрыты. 
 
