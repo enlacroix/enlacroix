@@ -8,28 +8,41 @@
 - 😄 Pronouns: Милостивый государь, Светлейший, и т.п.
 - ⚡ Fun fact: я патологический лжец
 ![](https://komarev.com/ghpvc/?username=enlacroix&color=red)
+<a href="https://github.com/enlacroix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=enlacroix&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a>
+
+GitHub Extra Pins. GitHub позволяет закреплять на странице профиля не более 6 репозиториев, но если этого мало, то можно добавить их в README-файл в виде карточки и не ограничиваться только 6 проектами. Для вставки надо заменить параметры username= на актуальный никнейм, repo= на название необходимого репозитория, а в скобках указать ссылку на сам репозиторий.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 <h3 align="center"> Добро пожаловать
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>
 </h3>
 
-<h4> О себе </h4>
+<h3> О себе </h3>
+Я лжец.
+<h3> Информация о проектах </h3>
 
-<h4> Информация о проектах </h4>
+<h4> <a href="https://enlacroix.github.io/" target="_blank"> Личный сайт </a> </h4>
 
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) На данный момент не содержит ничего примечательного. 
 
-<h5> <a href="https://enlacroix.github.io/" target="_blank"> Личный сайт </a> </h5>
+<h4> Нейрогеометрия </h4>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enlacroix&repo=neurogeometry&theme=dark)](https://github.com/enlacroix/neurogeometry)
+
+Сервис для решения задач по планиметрии. Символьный язык и дедуктивный движок, остальные части пока скрыты. 
 
 
-<h4> Статистика </h4>
+<h3> Статистика </h3>
 
-<a href="https://github.com/enlacroix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enlacroix&layout=compact&hide_border=true&theme=dark"/></a>
-<a href="https://github.com/enlacroix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=enlacroix&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a>
+<a href="https://github.com/enlacroix/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enlacroix&layout=compact&hide_border=true&theme=dark"/></a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enlacroix&theme=2077&utcOffset=3)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=enlacroix)](https://github.com/ryo-ma/github-profile-trophy)
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enlacroix&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enlacroix&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enlacroix&theme=2077)
 
 
 
