@@ -9,7 +9,7 @@
 - ⚡ Fun fact: я патологический лжец
 <a href="https://github.com/enlacroix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=enlacroix&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a>
 -->
-<h3 align="center"> !
+<h3 align="center"> Добро пожаловать
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>
 </h3>
 
@@ -19,7 +19,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Пока+сайт+не+содержит+полезной+информации)](https://git.io/typing-svg)
 
 <h4> Информация о проектах </h4>
-Sylvenarr: Конец Вечности. 
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) Sylvenarr: Конец Вечности. 
 <h4> Статистика </h4>
 
 <a href="https://github.com/enlacroix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enlacroix&layout=compact&hide_border=true&theme=dark"/></a>
