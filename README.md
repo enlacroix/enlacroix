@@ -30,3 +30,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=enlacroix)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=enlacroix&color=red)
+
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
