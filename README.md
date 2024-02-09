@@ -9,9 +9,11 @@
 - ⚡ Fun fact: я патологический лжец
 <a href="https://github.com/enlacroix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=enlacroix&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a>
 -->
-<h1 align="center"> Описание старницы <a href="https://enlacroix.github.io/" target="_blank"> Сайт с работами </a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"></h3>
+<h3 align="center"> Информация о проектах
+<a href="https://enlacroix.github.io/" target="_blank"> Сайт с работами </a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>
+</h3>
+
 
 
 
