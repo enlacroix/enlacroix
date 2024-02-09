@@ -16,10 +16,10 @@
 <h4> О себе </h4>
 
 <h5> <a href="https://enlacroix.github.io/" target="_blank"> Личный сайт </a> </h5>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Пока+сайт+не+содержит+полезной+информации)](https://git.io/typing-svg)
+
 
 <h4> Информация о проектах </h4>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <h4> Статистика </h4>
 
 <a href="https://github.com/enlacroix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enlacroix&layout=compact&hide_border=true&theme=dark"/></a>
