@@ -14,11 +14,13 @@
 </h3>
 
 <h4> О себе </h4>
+![](https://komarev.com/ghpvc/?username=enlacroix&color=red)
 
 <h5> <a href="https://enlacroix.github.io/" target="_blank"> Личный сайт </a> </h5>
 
 
 <h4> Информация о проектах </h4>
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) Разработка стратегической ролевой игры Sylvenarr: Edge of Eternality. 
 
 <h4> Статистика </h4>
 
