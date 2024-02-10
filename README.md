@@ -12,7 +12,7 @@
 
 GitHub Extra Pins. GitHub позволяет закреплять на странице профиля не более 6 репозиториев, но если этого мало, то можно добавить их в README-файл в виде карточки и не ограничиваться только 6 проектами. Для вставки надо заменить параметры username= на актуальный никнейм, repo= на название необходимого репозитория, а в скобках указать ссылку на сам репозиторий.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/enlacroix/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enlacroix&layout=compact&theme=dark"/></a>
 -->
 <h3 align="center"> Добро пожаловать
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>
@@ -40,15 +40,14 @@ GitHub Extra Pins. GitHub позволяет закреплять на стра�
 
 <h3> Статистика </h3>
 
-<a href="https://github.com/enlacroix/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enlacroix&layout=compact&hide_border=true&theme=dark"/></a>
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enlacroix&theme=2077&utcOffset=3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enlacroix&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=enlacroix)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enlacroix&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enlacroix&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enlacroix&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enlacroix&theme=2077&utcOffset=3)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=enlacroix)](https://github.com/ryo-ma/github-profile-trophy)
 
 
