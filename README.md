@@ -9,7 +9,6 @@
 - ⚡ Fun fact: я патологический лжец
 ![](https://komarev.com/ghpvc/?username=enlacroix&color=red)
 <a href="https://github.com/enlacroix/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=enlacroix&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="Github stats" /></a>
-
 GitHub Extra Pins. GitHub позволяет закреплять на странице профиля не более 6 репозиториев, но если этого мало, то можно добавить их в README-файл в виде карточки и не ограничиваться только 6 проектами. Для вставки надо заменить параметры username= на актуальный никнейм, repo= на название необходимого репозитория, а в скобках указать ссылку на сам репозиторий.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/enlacroix/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enlacroix&layout=compact&theme=dark"/></a>
