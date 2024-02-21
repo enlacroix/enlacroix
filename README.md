@@ -25,8 +25,6 @@ https://readme-typing-svg.demolab.com/demo/
 <h3> О себе </h3>
 Я лжец. 
 
-
-
 <h3> Информация о проектах </h3>
 
 <h4> Личный сайт </h4>
@@ -46,7 +44,7 @@ https://readme-typing-svg.demolab.com/demo/
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enlacroix&repo=permutations_paper&theme=tokyonight)](https://github.com/enlacroix/permutations_paper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enlacroix&repo=pypermutation&theme=tokyonight)](https://github.com/enlacroix/pypermutation)
 
-Статья, в которой описаны продвинутые задачи теории перестановок. Цель работы состояла в изучении свойств корневые, коммутирующих и стабилизирующих графов для групп S_n.
+Статья, в которой описаны продвинутые задачи теории перестановок. Цель работы состояла в изучении свойств корневые, коммутирующих и стабилизирующих графов для групп $S_n$.
 Для этих целей я разработал **pypermutation** - небольшой модуль, который реализует класс перестановки и математические операции над ним. 
 
 
