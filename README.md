@@ -18,18 +18,23 @@ GitHub Extra Pins. GitHub позволяет закреплять на стра�
 </h3>
 
 <h3> О себе </h3>
-Я лжец.
+
+![](https://komarev.com/ghpvc/?username=enlacroix&color=red)
+
+Я лжец. <a href="https://enlacroix.github.io/" target="_blank"> Мой блог </a>.
 <h3> Информация о проектах </h3>
 
-<h4> <a href="https://enlacroix.github.io/" target="_blank"> Личный сайт </a> </h4>
+<h4> Личный сайт </h4>
 
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) На данный момент не содержит ничего примечательного. 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enlacroix&repo=enlacroix.github.io&theme=tokyonight)](https://github.com/enlacroix/enlacroix.github.io)
+
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) В лучших традициях сайтов нулевых годов.
 
 <h4> Нейрогеометрия. Сервис машинного решения задач планиметрии. </h4>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enlacroix&repo=neurogeometry&theme=tokyonight)](https://github.com/enlacroix/neurogeometry)
 
-Представлены символьный язык и дедуктивный движок, остальные части пока скрыты. 
+Разработан символьный язык, дедуктивный движок и датафрейм, новый подход перебора теорем за время $O(N)$.
 
 <h4> Исследование структуры группы перестановок </h4>
 
