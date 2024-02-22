@@ -50,12 +50,15 @@ https://readme-typing-svg.demolab.com/demo/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enlacroix&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=enlacroix&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+<!--
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=enlacroix&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enlacroix&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enlacroix&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enlacroix&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enlacroix&theme=2077&utcOffset=3)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=enlacroix&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
