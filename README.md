@@ -49,6 +49,7 @@ https://readme-typing-svg.demolab.com/demo/
 <h3> Статистика </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enlacroix&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=enlacroix&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=enlacroix&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
