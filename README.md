@@ -48,14 +48,14 @@ https://readme-typing-svg.demolab.com/demo/
 
 Реализация модели из статьи "Grokking: Generalisation beyond overfitting". Дополнительно я описываю возможное объяснение феномена двойного спуска с точки зрения SGD.
 
-<h4> Игровой бот для ВК </h4> <a name="vkbot"></a>
+<h4> Боты для VK и Telegram </h4> <a name="vkbot"></a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enlacroix&repo=arenamsterbot&theme=tokyonight)](https://github.com/enlacroix/arenamsterbot)
 
-<h3> Статистика </h3> <a name="stats"></a>
+<h3 align="center"> Статистика </h3> <a name="stats"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enlacroix&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=enlacroix&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=enlacroix&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=enlacroix&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
