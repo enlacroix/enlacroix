@@ -15,24 +15,43 @@ https://readme-typing-svg.demolab.com/demo/
    1. [Личный сайт](#site)
    2. [Бот для ВК](#vkbot)
 2. [Статистика профиля](#stats)
--->
-<h3 align="center"> Добро пожаловать
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>
-</h3>
 
-<h3> Информация о проектах </h3> <a name="projects"></a>
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=enlacroix&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 
 <h4> Личный сайт </h4> <a id="site"></a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enlacroix&repo=enlacroix.github.io&theme=tokyonight)](https://github.com/enlacroix/enlacroix.github.io)
 
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) В лучших традициях сайтов нулевых.
+-->
+<h3 align="center"> Добро пожаловать
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>
+</h3>
 
-<h4> Нейрогеометрия: cервис машинного решения задач планиметрии. </h4>
+<h2> Публичные проекты </h2> <a name="projects"></a>
+
+<h3> Машинное обучение и искусственный интеллект </h3>
+
+<h4> Нейрогеометрия: cервис решения задач планиметрии методами ИИ </h4>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enlacroix&repo=neurogeometry&theme=tokyonight)](https://github.com/enlacroix/neurogeometry)
 
 Разработан символьный язык, дедуктивный движок и датафрейм, новый подход перебора теорем за время $O(N)$.
+
+<h4> E-KAN: ансамблирование нейросетей Колмогорова-Арнольда </h4>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enlacroix&repo=nir-ensembling&theme=tokyonight)](https://github.com/enlacroix/nir-ensembling)
+
+Представлена новая модель E-KAN (ensembling KAN), основанная на архитектуре Kolmogorov-Arnold Network (KAN). Заняла 56 место на лидерборде датасета MNIST, имея показатель f1-score 97,89% на тестовой выборке.   
+
+<h4> Исследование взаимосвязи переобучения нейронных сетей с их возможностью к нахождению закономерностей в данных</h4>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enlacroix&repo=intuitive_learning&theme=tokyonight)](https://github.com/enlacroix/intuitive_learning)
+
+Реализация модели из статьи "Grokking: Generalisation beyond overfitting". Дополнительно я описываю возможное объяснение феномена двойного спуска с точки зрения SGD.
+
+<h3> Прикладная математика </h3>
 
 <h4> Исследование структуры группы перестановок </h4>
 
@@ -42,28 +61,32 @@ https://readme-typing-svg.demolab.com/demo/
 Статья, в которой описаны продвинутые задачи теории перестановок. Цель работы состояла в изучении свойств корневые, коммутирующих и стабилизирующих графов для групп $S_n$.
 Для этих целей я разработал **pypermutation** - небольшой модуль, который реализует класс перестановки и математические операции над ним. 
 
-<h4> Исследование взаимосвязи переобучения нейронных сетей с их возможностью к нахождению закономерностей в данных</h4>
+<h4> Применение алгоритма Тарьяна для поиска минимального обоснования в системах линейных уравнений </h4>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enlacroix&repo=intuitive_learning&theme=tokyonight)](https://github.com/enlacroix/intuitive_learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enlacroix&repo=tarjan_pylineq&theme=tokyonight)](https://github.com/enlacroix/tarjan_pylineq)
 
-Реализация модели из статьи "Grokking: Generalisation beyond overfitting". Дополнительно я описываю возможное объяснение феномена двойного спуска с точки зрения SGD.
+Полную версию писал на Хабр. Исследование, посвященное проблеме нахождения минимального набора уравнений из системы, из которого можно вывести заданное уравнение. 
 
-<h4> Боты для VK и Telegram </h4> <a name="vkbot"></a>
+<h3> Проекты для развлечения </h3>
+
+<h4> Текстовый PvP-бот для ВК </h4> <a name="vkbot"></a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=enlacroix&repo=arenamsterbot&theme=tokyonight)](https://github.com/enlacroix/arenamsterbot)
 
-<h3 align="center"> Статистика </h3> <a name="stats"></a>
+<h2 align="center"> Статистика профиля </h2> <a name="stats"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enlacroix&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=enlacroix&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=enlacroix&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enlacroix&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enlacroix&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enlacroix&theme=2077)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enlacroix&theme=2077&utcOffset=3)
 
+<!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enlacroix&theme=2077&utcOffset=3)
+-->
 
 
 
